@@ -1,0 +1,147 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nal ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{ display: inline-block;
+margin:20px;
+}
+
+
+h1{
+    font-family: Algerian;
+    color: cyan;
+    text-align: center;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-family: sans-serif;
+    color:darkcyan ;
+
+    font-size: 30px;
+}
+hr{
+
+    font-size: 5px;
+    border:5px solid forestgreen;
+    width: 100%;
+}
+.form{
+background-color: coral;
+    width: 50%;
+    text-align: center;
+    margin-left: 50px;
+    border-radius: 10px ;
+    border: 5px solid cyan;
+    align-content: center;
+
+
+}
+.contactus{
+width: 60%;
+    border-radius: 10px;
+    padding: 20px 20px;
+    border: 2px solid coral;
+}
+form{
+    margin-left: 20px;
+    padding:10px;
+
+}
+label{
+    font-size: 18px;
+    font-family: "Arial Black";
+    color: black;
+}
+    input[type=text],input[type=radio],input[type=email],input[type=radio],input[textarea]{
+        margin: 10px 0;
+        border-radius: 15px;
+        padding: 15px 10px;
+        box-sizing: border-box;
+        width: 100%;
+    }
+    input[type=submit]{
+        margin: 12px;
+        border-radius: 12px;
+        padding: 30px 10px;
+        box-sizing: border-box;
+        width: 30%;
+        height: 20px;
+        background-color: aquamarine;
+        color: black;
+        font-size: 18px;
+    }
+
+#submit{
+    display: flex;
+    align-content: center;
+    justify-content: center;}
+
+input [type=submit]:hover{
+    background-color: aliceblue;
+}
+.flex1{
+    display: flex;
+}
+#contacts{
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: "Arial Narrow";
+    color: cornflowerblue;
+    background-color: aliceblue;
+    margin-left: 50px;
+    font-size: 20px;
+}
+body{
+    background-color: #f08080;
+    align-content: baseline;
+    text-align: justify;
+    margin: 10px 10px;
+    padding: 10px 10px ;
+}
+.logo2{
+    margin-right: 50px;
+    padding: 30px 30px;
+}
+.ul{
+    margin-left: 30px;
+    color: lime;
+    font-family: "Arial Black";
+    font-size: 20px;
+}
+
+.small-container{
+    max-width: 1000px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.col5{
+    flex-basis: 20%;
+    padding: 10px;
+    min-width: 200px;
+
+}
+.category{
+    margin: 70px 0px;
+}

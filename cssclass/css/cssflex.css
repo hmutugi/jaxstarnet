@@ -1,0 +1,15 @@
+.flexbox{
+    font-size: 45px;
+    color: burlywood;
+    text-align: center;
+    font-family: "Bauhaus 93";
+    background-color: brown;
+}
+
+.flex1,.flex2{display: flex}
+body{
+    margin: 2px;
+    padding: 20px 20px;
+    background-color:fuchsia;
+
+}

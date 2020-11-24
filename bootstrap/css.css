@@ -1,0 +1,31 @@
+th{
+    background-color: lightpink;
+}
+table {
+    background-color: lavenderblush;
+    margin: 10px 10px;
+    magin-left: 10px ;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col1{
+    padding: 20px;
+    background-color: lime;
+    border-right: 20px;
+}
+label{
+    size: 35px;
+    color: #005cbf;
+    text-shadow: black
+;
+}
+.topmenu{
+    background-color: lightsalmon;
+}

@@ -1,0 +1,20 @@
+.maintitle{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+    font-family: Calibri;
+}
+p{
+    font-size: 18px;
+    color: darkblue;
+    text-align:justify;
+    font-family: "Arial Narrow";
+}
+hr{
+    font-size: 2px;
+    color: blue;
+}
+body{
+    background-color: antiquewhite;
+    margin: 2px;
+}
